@@ -1,5 +1,3 @@
-import sys
-
 def init():
     filename = 'inputs/input4.txt'
     with open(filename) as f: all = f.read()
